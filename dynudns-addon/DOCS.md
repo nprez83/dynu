@@ -123,7 +123,7 @@ The number of seconds to wait before updating DynuDNS subdomains and renewing Le
 
 ## Credit
 
-This add-on is at 99% a copy of the official DuckDNS add-on 
+The original add-on by [Koying](https://github.com/koying/ha-addons) is a 99% a copy of the official DuckDNS add-on. This is an updated version by [nprez83](https://github.com/nprez83) to incorporate the fix for the 's6-overlay-suexec: fatal: can only run as pid 1' error.  The credit for figuring out this fix goes to [zerocritical](https://github.com/koying/ha-addons/issues/4#issuecomment-1205211883).
 
 ## Support
 
