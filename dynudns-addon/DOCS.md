@@ -129,10 +129,7 @@ This add-on is at 99% a copy of the official DuckDNS add-on
 
 - The Home Assistant [Community Forum][forum].
 
-In case you've found a bug, please [open an issue on our GitHub][issue].
-
 [forum]: https://community.home-assistant.io
-[issue]: https://github.com/koying/ha-addons/issues
 [dynudns]: https://www.dynudns.org
 [dynudns-faq]: https://www.dynu.com/FAQ/Dynamic-DNS-Service
 [HTTP]: https://www.home-assistant.io/integrations/http/
