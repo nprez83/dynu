@@ -15,7 +15,7 @@
       "keyfile": "privkey.pem"
     },
     "token": null,
-    "domains": [null],
+    "domains": [],
     "aliases": [],
     "seconds": 300
   },
