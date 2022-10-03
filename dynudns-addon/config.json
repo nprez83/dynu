@@ -1,4 +1,5 @@
 {
+  "init": "false",
   "name": "Dynu DNS",
   "version": "1.0.0",
   "slug": "dynudns",
